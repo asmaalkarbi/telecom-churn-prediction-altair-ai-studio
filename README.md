@@ -67,6 +67,6 @@ Used to improve prediction performance and identify feature importance.
 - Experiment with advanced ML algorithms
 
 ## 👩‍💻 Author(s)
-Asma Alkarbi
-Afraa Almessabi
-Maryam Alshouq
+#### Asma Alkarbi
+#### Afraa Almessabi
+#### Maryam Alshouq
